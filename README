@@ -4,3 +4,5 @@ By Simon David Pratt
 
 A script that takes a directory and indicates whether the directory
 (or subdirectory) contains a zero-length file.
+
+See LICENSE file for license information.
