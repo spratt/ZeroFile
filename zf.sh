@@ -7,3 +7,4 @@ if [ ! -d $1 ]; then
     echo "Directory does not exist"
     exit
 fi
+find $1 -size 0
